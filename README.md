@@ -56,10 +56,6 @@ Sou estudante do último ano do **Técnico em Análise e Desenvolvimento de Sist
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolas.taylorrs@gmail.com)
 
-Se você achar meus projetos legais, que tal me pagar um café? ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nickfuturista)
-
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
