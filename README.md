@@ -6,7 +6,7 @@ Sou estudante do último ano do **Técnico em Análise e Desenvolvimento de Sist
 
 ---
 
-### Quando codifico, eu uso
+### Quando codifico, eu uso:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@ Sou estudante do último ano do **Técnico em Análise e Desenvolvimento de Sist
 
 ---
 
-### 📚 O que estou aprendendo agora
+### 📚 O que estou aprendendo agora:
 
 - 🔭 Desenvolvendo o meu **Projeto Final / TCC** do curso técnico
 - 🌱 Aprofundando em **Luau** e **Java** 
@@ -31,13 +31,13 @@ Sou estudante do último ano do **Técnico em Análise e Desenvolvimento de Sist
 
 ---
 
-### Meu resumo de contribuições no GitHub
+### Meu resumo de contribuições no GitHub:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nickfuturista&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-### Minhas estatísticas no GitHub
+### Minhas estatísticas no GitHub:
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nickfuturista&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -46,13 +46,13 @@ Sou estudante do último ano do **Técnico em Análise e Desenvolvimento de Sist
 
 ---
 
-### 🏆 Troféus
+### 🏆 Troféus:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nickfuturista&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🌐 Me encontre por aqui
+### 🌐 Me encontre por aqui:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolas.taylorrs@gmail.com)
 
